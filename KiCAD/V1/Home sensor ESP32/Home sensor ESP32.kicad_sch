@@ -7684,7 +7684,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 80.01 142.24 90)
 			(effects
 				(font
@@ -7753,7 +7753,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1K5"
 			(at 87.63 29.2099 0)
 			(effects
 				(font
@@ -8408,7 +8408,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10k"
 			(at 80.01 124.46 90)
 			(effects
 				(font
@@ -8633,7 +8633,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1K5"
 			(at 78.74 29.2099 0)
 			(effects
 				(font
